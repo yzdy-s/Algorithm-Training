@@ -126,11 +126,11 @@ def update_readme_and_csv(daily_data, recent_pool, backlog_pool, platforms):
     # 👉 构造 CF 风格统计看板 HTML
     cf_stats_html = f"""
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td align="center" width="33%"><b><font size="5" color="#2874a6">{all_ac}</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
-      <td align="center" width="33%"><b><font size="5" color="#2874a6">{yr_ac}</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
-      <td align="center" width="33%"><b><font size="5" color="#2874a6">{mo_ac}</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">{all_ac}</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">{yr_ac}</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">{mo_ac}</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
     </tr>
     <tr>
       <td align="center"><b><font size="5" color="#2874a6">{all_strk}</font> days</b><br><font color="gray" size="2">in a row max.</font></td>
@@ -142,6 +142,7 @@ def update_readme_and_csv(daily_data, recent_pool, backlog_pool, platforms):
 """
 
     dashboard_html = f"""
+<div align="center">
 <table width="100%">
     <tr>
         <td width="50%" valign="top">
@@ -164,6 +165,7 @@ def update_readme_and_csv(daily_data, recent_pool, backlog_pool, platforms):
         </td>
     </tr>
 </table>
+</div>
 """
 
     content = [
@@ -176,7 +178,8 @@ def update_readme_and_csv(daily_data, recent_pool, backlog_pool, platforms):
         "## 🕒 Dashboard\n",
         dashboard_html + "\n",
         "--- \n\n",
-        "## 📊 AC History\n\n"
+        "## 📊 AC History\n\n",
+        "<div align=\"center\">\n\n"
     ]
 
     if daily_data:
@@ -190,6 +193,8 @@ def update_readme_and_csv(daily_data, recent_pool, backlog_pool, platforms):
             row_md = [str(counts[p]) if counts[p] > 0 else "-" for p in platforms]
             content.append(f"| [{d}](./DailyLogs/{d}.md) | " + " | ".join(row_md) + f" | **{total}** |\n")
             csv_rows.append({'Date': d, **counts, 'Total': total})
+            
+        content.append("\n</div>\n")
 
         with open(README_FILE, 'w', encoding='utf-8') as f:
             f.writelines(content)

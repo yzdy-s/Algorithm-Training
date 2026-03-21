@@ -1,16 +1,16 @@
 # 🏆 Algorithm Training Log
-> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-03-22 00:09:28*
+> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-03-22 00:32:30*
 
 ## 📈 Heatmap
 ![Algorithm Training Heatmap](https://raw.githubusercontent.com/Qyf050217/Algorithm-Training/refs/heads/output/ac_heatmap.png)
 
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td align="center" width="33%"><b><font size="5" color="#2874a6">121</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
-      <td align="center" width="33%"><b><font size="5" color="#2874a6">121</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
-      <td align="center" width="33%"><b><font size="5" color="#2874a6">42</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">121</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">121</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">42</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
     </tr>
     <tr>
       <td align="center"><b><font size="5" color="#2874a6">5</font> days</b><br><font color="gray" size="2">in a row max.</font></td>
@@ -25,6 +25,7 @@
 
 ## 🕒 Dashboard
 
+<div align="center">
 <table width="100%">
     <tr>
         <td width="50%" valign="top">
@@ -47,10 +48,13 @@
         </td>
     </tr>
 </table>
+</div>
 
 --- 
 
 ## 📊 AC History
+
+<div align="center">
 
 | 日期 | Codeforces | HDOJ | Local | Luogu | Nowcoder | **Total** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -81,3 +85,5 @@
 | [2026-01-29](./DailyLogs/2026-01-29.md) | 8 | - | - | - | - | **8** |
 | [2026-01-28](./DailyLogs/2026-01-28.md) | 4 | - | - | - | - | **4** |
 | [2026-01-27](./DailyLogs/2026-01-27.md) | 1 | - | - | 2 | 6 | **9** |
+
+</div>
