@@ -1,5 +1,5 @@
 # 🏆 Algorithm Training Log
-> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-03-23 10:16:45*
+> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-03-26 00:53:46*
 
 ## 📈 Heatmap
 ![Algorithm Training Heatmap](https://raw.githubusercontent.com/Qyf050217/Algorithm-Training/refs/heads/output/ac_heatmap.png)
@@ -10,7 +10,7 @@
     <tr>
       <td align="center"><b><font size="5" color="#2874a6">122</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
       <td align="center"><b><font size="5" color="#2874a6">122</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
-      <td align="center"><b><font size="5" color="#2874a6">43</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">39</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
     </tr>
     <tr>
       <td align="center"><b><font size="5" color="#2874a6">5</font> days</b><br><font color="gray" size="2">in a row max.</font></td>
