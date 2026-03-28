@@ -20,9 +20,8 @@ void solve() {
     }
     int sum = 0;
     for (int i = 0; i < k; i++) sum += arr[i];
-    if ((z + sum) % 2) {
-        for (int i = 0; i < k; i++) if (ans[i] == 3) ans[i] = cur;
-    } else for (int i = 0; i < k; i++) if (ans[i] == 3) ans[i] = (cur ^ 1);
+    if ((z + sum) % 2) for (int i = 0; i < k; i++) if (ans[i] == 3) ans[i] = cur;
+    else for (int i = 0; i < k; i++) if (ans[i] == 3) ans[i] = (cur ^ 1);
     for (int i = k-1; i >= 0; i--) cout << ans[i];
 }
 
