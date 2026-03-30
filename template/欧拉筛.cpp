@@ -42,7 +42,8 @@ bool isprime(int n) {
 
 void solve(){
     int n;cin >> n;
-    cout << primes[n - 1];
+    int ans = 1;
+    for (int i = 1; i <= n; i++) cout << primes[i] << ',';
 }
 
 signed main() {

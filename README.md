@@ -1,5 +1,5 @@
 # 🏆 Algorithm Training Log
-> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-03-29 15:56:13*
+> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-03-30 18:00:07*
 
 ## 📈 Heatmap
 ![Algorithm Training Heatmap](https://raw.githubusercontent.com/Qyf050217/Algorithm-Training/refs/heads/output/ac_heatmap.png)
@@ -8,9 +8,9 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center"><b><font size="5" color="#2874a6">130</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
-      <td align="center"><b><font size="5" color="#2874a6">130</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
-      <td align="center"><b><font size="5" color="#2874a6">42</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">134</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">134</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">46</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
     </tr>
     <tr>
       <td align="center"><b><font size="5" color="#2874a6">5</font> days</b><br><font color="gray" size="2">in a row max.</font></td>
@@ -33,7 +33,7 @@
             <table width="100%">
                 <thead><tr><th align="center">平台</th><th align="left">题目</th><th align="right">日期</th></tr></thead>
                 <tbody>
-                <tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2211/problem/D'>2211D</a></td><td align='right'>03-29</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2211/problem/C2'>2211C2</a></td><td align='right'>03-29</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2211/problem/C1'>2211C1</a></td><td align='right'>03-29</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2211/problem/B'>2211B</a></td><td align='right'>03-29</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2211/problem/A'>2211A</a></td><td align='right'>03-29</td></tr>
+                <tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2210/problem/C2'>2210C2</a></td><td align='right'>03-30</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2210/problem/C1'>2210C1</a></td><td align='right'>03-30</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2210/problem/B'>2210B</a></td><td align='right'>03-30</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2210/problem/A'>2210A</a></td><td align='right'>03-30</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2211/problem/D'>2211D</a></td><td align='right'>03-29</td></tr>
                 </tbody>
             </table>
         </td>
@@ -58,7 +58,8 @@
 
 | 日期 | Codeforces | HDOJ | Local | Luogu | Nowcoder | **Total** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| [2026-03-29](./DailyLogs/2026-03-29.md) | 2 | - | - | - | - | **2** |
+| [2026-03-30](./DailyLogs/2026-03-30.md) | 1 | - | - | - | - | **1** |
+| [2026-03-29](./DailyLogs/2026-03-29.md) | 5 | - | - | - | - | **5** |
 | [2026-03-28](./DailyLogs/2026-03-28.md) | 3 | - | - | - | - | **3** |
 | [2026-03-27](./DailyLogs/2026-03-27.md) | - | 2 | - | 1 | - | **3** |
 | [2026-03-23](./DailyLogs/2026-03-23.md) | - | - | - | - | 1 | **1** |
