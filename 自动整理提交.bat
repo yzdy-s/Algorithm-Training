@@ -8,7 +8,7 @@ cd /d "%~dp0"
 set PYTHONUTF8=1
 
 :: 指定 Anaconda 环境路径
-set PY="D:\develop\Python313\python.exe"
+set PY="D:\develop\Python314\python.exe"
 echo ============================================
 echo      🚀 正在启动：算法仓库自动化流程
 echo ============================================

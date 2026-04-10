@@ -18,31 +18,20 @@ int rnd_int(int a, int b) {
 }
 
 void solve() {
-    int n=10;
+    int n=rnd_int(1,20);
     cout<<n<<'\n';
     for(int i=1;i<=n;i++)
     {
-        for(int j=1;j<=n;j++)
-        {
-            int x=rnd_int(0,2);
-            if(x==0)
-            {
-                cout<<0<<' ';
-            }
-            else
-            {
-                cout<<rnd_int(1,100000)<<' ';
-            }
-            
-        }
-        cout<<'\n';
+        int x=rnd_int(80000,100000);
+        cout<<x<<' ';
     }
+    cout<<'\n';
 }
 
 
 void test_solve() {
-    int T_ = 1;
-    //cout << T_<<'\n';
+    int T_ = 10;
+    cout << T_<<'\n';
     while (T_--) solve();
 }
 
