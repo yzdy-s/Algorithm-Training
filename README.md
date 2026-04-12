@@ -1,5 +1,5 @@
 # 🏆 Algorithm Training Log
-> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-04-10 23:42:19*
+> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-04-12 23:03:59*
 
 ## 📈 Heatmap
 ![Algorithm Training Heatmap](https://raw.githubusercontent.com/Qyf050217/Algorithm-Training/refs/heads/output/ac_heatmap.png)
@@ -8,9 +8,9 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center"><b><font size="5" color="#2874a6">150</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
-      <td align="center"><b><font size="5" color="#2874a6">150</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
-      <td align="center"><b><font size="5" color="#2874a6">51</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">158</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">158</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">58</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
     </tr>
     <tr>
       <td align="center"><b><font size="5" color="#2874a6">8</font> days</b><br><font color="gray" size="2">in a row max.</font></td>
@@ -33,7 +33,7 @@
             <table width="100%">
                 <thead><tr><th align="center">平台</th><th align="left">题目</th><th align="right">日期</th></tr></thead>
                 <tbody>
-                <tr><td align='center'><code>HDOJ</code></td><td><a href='https://acm.hdu.edu.cn/contest/problem?cid=1200&pid=1008'>谁输谁洗碗</a></td><td align='right'>04-10</td></tr><tr><td align='center'><code>HDOJ</code></td><td><a href='https://acm.hdu.edu.cn/contest/problem?cid=1200&pid=1004'>左右脑互搏</a></td><td align='right'>04-10</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2214/problem/A'>2214A</a></td><td align='right'>04-10</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/gym/106463/problem/A'>106463A</a></td><td align='right'>04-08</td></tr><tr><td align='center'><code>HDOJ</code></td><td><a href='https://acm.hdu.edu.cn/contest/problem?cid=1199&pid=1004'>式神契约论</a></td><td align='right'>04-08</td></tr>
+                <tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/gym/105709/problem/E'>105709E</a></td><td align='right'>04-12</td></tr><tr><td align='center'><code>Luogu</code></td><td><a href='https://www.luogu.com.cn/problem/P16238'>P16238</a></td><td align='right'>04-12</td></tr><tr><td align='center'><code>Luogu</code></td><td><a href='https://www.luogu.com.cn/problem/P16237'>P16237</a></td><td align='right'>04-12</td></tr><tr><td align='center'><code>Luogu</code></td><td><a href='https://www.luogu.com.cn/problem/P16236'>P16236</a></td><td align='right'>04-12</td></tr><tr><td align='center'><code>Luogu</code></td><td><a href='https://www.luogu.com.cn/problem/P16235'>P16235</a></td><td align='right'>04-12</td></tr>
                 </tbody>
             </table>
         </td>
@@ -58,6 +58,8 @@
 
 | 日期 | Codeforces | HDOJ | Local | Luogu | Nowcoder | **Total** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| [2026-04-12](./DailyLogs/2026-04-12.md) | 1 | - | - | 1 | - | **2** |
+| [2026-04-11](./DailyLogs/2026-04-11.md) | - | - | - | 6 | - | **6** |
 | [2026-04-10](./DailyLogs/2026-04-10.md) | - | 2 | - | - | - | **2** |
 | [2026-04-08](./DailyLogs/2026-04-08.md) | 1 | - | - | - | - | **1** |
 | [2026-04-07](./DailyLogs/2026-04-07.md) | 3 | - | - | - | - | **3** |
