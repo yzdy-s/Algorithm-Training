@@ -1,5 +1,5 @@
 # 🏆 Algorithm Training Log
-> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-04-12 23:04:34*
+> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-04-15 18:04:15*
 
 ## 📈 Heatmap
 ![Algorithm Training Heatmap](https://raw.githubusercontent.com/Qyf050217/Algorithm-Training/refs/heads/output/ac_heatmap.png)
@@ -8,8 +8,8 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center"><b><font size="5" color="#2874a6">159</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
-      <td align="center"><b><font size="5" color="#2874a6">159</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">163</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">163</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
       <td align="center"><b><font size="5" color="#2874a6">59</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
     </tr>
     <tr>
@@ -33,7 +33,7 @@
             <table width="100%">
                 <thead><tr><th align="center">平台</th><th align="left">题目</th><th align="right">日期</th></tr></thead>
                 <tbody>
-                <tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/gym/105709/problem/F'>105709F</a></td><td align='right'>04-12</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/gym/105709/problem/E'>105709E</a></td><td align='right'>04-12</td></tr><tr><td align='center'><code>Luogu</code></td><td><a href='https://www.luogu.com.cn/problem/P16238'>P16238</a></td><td align='right'>04-12</td></tr><tr><td align='center'><code>Luogu</code></td><td><a href='https://www.luogu.com.cn/problem/P16237'>P16237</a></td><td align='right'>04-12</td></tr><tr><td align='center'><code>Luogu</code></td><td><a href='https://www.luogu.com.cn/problem/P16236'>P16236</a></td><td align='right'>04-12</td></tr>
+                <tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2220/problem/C'>2220C</a></td><td align='right'>04-15</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2220/problem/B'>2220B</a></td><td align='right'>04-15</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://m1.codeforces.com/contest/2220/problem/A'>2220A</a></td><td align='right'>04-15</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/gym/105666/problem/B'>105666B</a></td><td align='right'>04-15</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/gym/105709/problem/F'>105709F</a></td><td align='right'>04-12</td></tr>
                 </tbody>
             </table>
         </td>
@@ -58,6 +58,8 @@
 
 | 日期 | Codeforces | HDOJ | Local | Luogu | Nowcoder | **Total** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| [2026-04-15](./DailyLogs/2026-04-15.md) | 1 | - | - | - | - | **1** |
+| [2026-04-13](./DailyLogs/2026-04-13.md) | 3 | - | - | - | - | **3** |
 | [2026-04-12](./DailyLogs/2026-04-12.md) | 2 | - | - | 1 | - | **3** |
 | [2026-04-11](./DailyLogs/2026-04-11.md) | - | - | - | 6 | - | **6** |
 | [2026-04-10](./DailyLogs/2026-04-10.md) | - | 2 | - | - | - | **2** |
