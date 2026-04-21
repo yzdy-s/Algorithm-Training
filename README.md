@@ -1,5 +1,5 @@
 # 🏆 Algorithm Training Log
-> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-04-19 22:11:07*
+> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-04-22 00:44:59*
 
 ## 📈 Heatmap
 ![Algorithm Training Heatmap](https://raw.githubusercontent.com/Qyf050217/Algorithm-Training/refs/heads/output/ac_heatmap.png)
@@ -8,9 +8,9 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center"><b><font size="5" color="#2874a6">171</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
-      <td align="center"><b><font size="5" color="#2874a6">171</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
-      <td align="center"><b><font size="5" color="#2874a6">60</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">176</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">176</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">55</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
     </tr>
     <tr>
       <td align="center"><b><font size="5" color="#2874a6">8</font> days</b><br><font color="gray" size="2">in a row max.</font></td>
@@ -33,7 +33,7 @@
             <table width="100%">
                 <thead><tr><th align="center">平台</th><th align="left">题目</th><th align="right">日期</th></tr></thead>
                 <tbody>
-                <tr><td align='center'><code>HDOJ</code></td><td><a href='https://acm.hdu.edu.cn/contest/problem?cid=1201&pid=1004'>赛马</a></td><td align='right'>04-19</td></tr><tr><td align='center'><code>Nowcoder</code></td><td><a href='https://ac.nowcoder.com/acm/contest/133303/C'>小红的矩阵计数</a></td><td align='right'>04-19</td></tr><tr><td align='center'><code>Nowcoder</code></td><td><a href='https://ac.nowcoder.com/acm/contest/133303/G'>小红的生成树构造</a></td><td align='right'>04-19</td></tr><tr><td align='center'><code>Nowcoder</code></td><td><a href='https://ac.nowcoder.com/acm/contest/133303/B'>小红的牛魔</a></td><td align='right'>04-19</td></tr><tr><td align='center'><code>Nowcoder</code></td><td><a href='https://ac.nowcoder.com/acm/contest/133303/E'>小红的排序_hard</a></td><td align='right'>04-19</td></tr>
+                <tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2225/problem/D'>2225D</a></td><td align='right'>04-22</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2225/problem/C'>2225C</a></td><td align='right'>04-22</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2225/problem/B'>2225B</a></td><td align='right'>04-22</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2225/problem/A'>2225A</a></td><td align='right'>04-22</td></tr><tr><td align='center'><code>HDOJ</code></td><td><a href='https://acm.hdu.edu.cn/contest/problem?cid=1201&pid=1007'>喂马</a></td><td align='right'>04-21</td></tr>
                 </tbody>
             </table>
         </td>
@@ -58,6 +58,8 @@
 
 | 日期 | Codeforces | HDOJ | Local | Luogu | Nowcoder | **Total** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| [2026-04-22](./DailyLogs/2026-04-22.md) | 1 | - | - | - | - | **1** |
+| [2026-04-21](./DailyLogs/2026-04-21.md) | 3 | 1 | - | - | - | **4** |
 | [2026-04-17](./DailyLogs/2026-04-17.md) | - | 1 | - | - | 1 | **2** |
 | [2026-04-16](./DailyLogs/2026-04-16.md) | - | - | - | - | 6 | **6** |
 | [2026-04-15](./DailyLogs/2026-04-15.md) | 1 | - | - | - | - | **1** |
