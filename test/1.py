@@ -1,40 +1,32 @@
-import sys
-MOD = 998244353
+import os
+from openai import OpenAI
 
-def f(k):
-    mod = k % 4
-    if mod == 0:
-        return k
-    elif mod == 1:
-        return 1
-    elif mod == 2:
-        return k + 1
-    else:
-        return 0
+# 从环境变量中获取您的API KEY，配置方法见：https://www.volcengine.com/docs/82379/1399008
+api_key = "ark-41cd6564-1942-4f72-b8da-432f7df7eac3-e14bf"
 
-def main():
-    input = sys.stdin.read
-    data = input().split()
-    t = int(data[0])
-    idx = 1
-    res = []
-    for _ in range(t):
-        n = int(data[idx])
-        x = int(data[idx+1])
-        idx +=2
-        val = f(x-1)
-        cnt = 0
-        if val == 0:
-            cnt += (n - x)
-        r = x
-        while r <= n:
-            bit = r & -r
-            nr = r + bit
-            c = min(nr - 1, n) - r + 1
-            cnt += c
-            r = nr
-        res.append(str(cnt % MOD))
-    print('\n'.join(res))
+client = OpenAI(
+    base_url="https://ark.cn-beijing.volces.com/api/v3",
+    api_key=api_key,
+)
 
-if __name__ == "__main__":
-    main()
+response = client.responses.create(
+    model="doubao-seed-1-8-251228",
+    input=[
+        {
+            "role": "user",
+            "content": [
+
+                {
+                    "type": "input_image",
+                    "image_url": "https://ark-project.tos-cn-beijing.volces.com/doc_image/ark_demo_img_1.png"
+                },
+                {
+                    "type": "input_text",
+                    "text": "你看见了什么？"
+                },
+            ],
+        }
+    ]
+)
+
+print(response)
