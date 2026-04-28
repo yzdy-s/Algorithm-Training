@@ -1,5 +1,5 @@
 # 🏆 Algorithm Training Log
-> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-04-23 23:23:33*
+> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-04-29 01:18:48*
 
 ## 📈 Heatmap
 ![Algorithm Training Heatmap](https://raw.githubusercontent.com/Qyf050217/Algorithm-Training/refs/heads/output/ac_heatmap.png)
@@ -8,9 +8,9 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center"><b><font size="5" color="#2874a6">177</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
-      <td align="center"><b><font size="5" color="#2874a6">177</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
-      <td align="center"><b><font size="5" color="#2874a6">55</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">184</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">184</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">51</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
     </tr>
     <tr>
       <td align="center"><b><font size="5" color="#2874a6">8</font> days</b><br><font color="gray" size="2">in a row max.</font></td>
@@ -33,7 +33,7 @@
             <table width="100%">
                 <thead><tr><th align="center">平台</th><th align="left">题目</th><th align="right">日期</th></tr></thead>
                 <tbody>
-                <tr><td align='center'><code>Luogu</code></td><td><a href='https://www.luogu.com.cn/problem/P2107'>P2107</a></td><td align='right'>04-23</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2225/problem/D'>2225D</a></td><td align='right'>04-22</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2225/problem/C'>2225C</a></td><td align='right'>04-22</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2225/problem/B'>2225B</a></td><td align='right'>04-22</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2225/problem/A'>2225A</a></td><td align='right'>04-22</td></tr>
+                <tr><td align='center'><code>HDOJ</code></td><td><a href='https://acm.hdu.edu.cn/contest/problem?cid=1202&pid=1010'>白潘</a></td><td align='right'>04-29</td></tr><tr><td align='center'><code>HDOJ</code></td><td><a href='https://acm.hdu.edu.cn/contest/problem?cid=1202&pid=1002'>滚动的色彩</a></td><td align='right'>04-29</td></tr><tr><td align='center'><code>HDOJ</code></td><td><a href='https://acm.hdu.edu.cn/contest/problem?cid=1202&pid=1007'>不开心世纪</a></td><td align='right'>04-29</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2226/problem/D'>2226D</a></td><td align='right'>04-29</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2226/problem/C'>2226C</a></td><td align='right'>04-29</td></tr>
                 </tbody>
             </table>
         </td>
@@ -58,6 +58,10 @@
 
 | 日期 | Codeforces | HDOJ | Local | Luogu | Nowcoder | **Total** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| [2026-04-29](./DailyLogs/2026-04-29.md) | 1 | - | - | - | - | **1** |
+| [2026-04-28](./DailyLogs/2026-04-28.md) | 3 | 1 | - | - | - | **4** |
+| [2026-04-27](./DailyLogs/2026-04-27.md) | - | 1 | - | - | - | **1** |
+| [2026-04-24](./DailyLogs/2026-04-24.md) | - | 1 | - | - | - | **1** |
 | [2026-04-23](./DailyLogs/2026-04-23.md) | - | - | - | 1 | - | **1** |
 | [2026-04-22](./DailyLogs/2026-04-22.md) | 1 | - | - | - | - | **1** |
 | [2026-04-21](./DailyLogs/2026-04-21.md) | 3 | 1 | - | - | - | **4** |
