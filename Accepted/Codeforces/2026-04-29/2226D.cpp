@@ -6,13 +6,6 @@ using namespace std;
 #define INF 0x3f3f3f3f
 #define PII pair<int, int>
 
-
-void gSort(int l, int r) {
-    if (l == r) return;
-    int mid = l + r >> 1;
-
-}
-
 void solve(){
     int n;cin >> n;
     vector<int> arr(n + 1);
