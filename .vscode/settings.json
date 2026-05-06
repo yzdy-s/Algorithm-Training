@@ -138,5 +138,16 @@
         "Manacher",
         "MAXN",
         "PYTHONUTF"
-    ]
+    ],
+    // CPH 颜色配置
+    "cph.general.timeLimit": 2000,
+    "cph.general.autoSave": true,
+    "workbench.colorCustomizations": {
+        "cph.accepted": "#4CAF50",
+        "cph.wrongAnswer": "#F44336",
+        "cph.timeLimit": "#FF9800",
+        "cph.runtimeError": "#9C27B0",
+        "cph.compilationError": "#FF5722",
+        "cph.running": "#2196F3"
+    }
 }
