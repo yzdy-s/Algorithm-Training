@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define int long long
+#define endl '\n'
+#define LNF 1e18
+#define INF 0x3f3f3f3f
+#define PII pair<int, int>
+
+void solve(){
+    int n, a, b;cin >> n >> a >> b;
+    int res = a * n;
+    res = min((n + 2) / 3 * b, res);
+    res = min(n / 3 * b + n % 3 * a, res);
+    cout << res << endl;
+}
+
+signed main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);cout.tie(nullptr);
+    int T = 1;cin >> T;
+    while (T--) solve();
+}
