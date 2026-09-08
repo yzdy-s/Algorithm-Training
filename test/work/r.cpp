@@ -19,10 +19,8 @@ int main() {
 
     int T = 1;
     cout << T << '\n';
-    int n = rnd_ll(1, 10000000);
-    int l = rnd_ll(1, n - 1);
-    int r = rnd_ll(l, n - 1);
-
-    cout << l << ' ' << r << ' ' << n << endl;
+    for (int i = 1; i <= 5; i++) {
+        cout << rnd_ll(0, 1e4) << ' ';
+    }
     return 0;
 }
