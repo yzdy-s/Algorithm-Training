@@ -1,5 +1,5 @@
 # 🏆 Algorithm Training Log
-> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-09-08 22:18:46*
+> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-09-09 20:47:22*
 
 ## 📈 Heatmap
 ![Algorithm Training Heatmap](https://raw.githubusercontent.com/Qyf050217/Algorithm-Training/refs/heads/output/ac_heatmap.png)
@@ -8,9 +8,9 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center"><b><font size="5" color="#2874a6">327</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
-      <td align="center"><b><font size="5" color="#2874a6">327</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
-      <td align="center"><b><font size="5" color="#2874a6">28</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">332</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">332</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">33</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
     </tr>
     <tr>
       <td align="center"><b><font size="5" color="#2874a6">8</font> days</b><br><font color="gray" size="2">in a row max.</font></td>
@@ -33,7 +33,7 @@
             <table width="100%">
                 <thead><tr><th align="center">平台</th><th align="left">题目</th><th align="right">日期</th></tr></thead>
                 <tbody>
-                <tr><td align='center'><code>Others</code></td><td><a href='https://vjudge.net/contest/846238#problem/D'>Arcane_Behemoths</a></td><td align='right'>09-08</td></tr><tr><td align='center'><code>HDOJ</code></td><td><a href='https://acm.hdu.edu.cn/contest/problem?cid=1236&pid=1007'>用传送门来让网格连通吧</a></td><td align='right'>09-01</td></tr><tr><td align='center'><code>Nowcoder</code></td><td><a href='https://ac.nowcoder.com/acm/contest/139206/A'>小月的魔法</a></td><td align='right'>09-01</td></tr><tr><td align='center'><code>Nowcoder</code></td><td><a href='https://ac.nowcoder.com/acm/contest/139206/F'>小月的纸带</a></td><td align='right'>09-01</td></tr><tr><td align='center'><code>Nowcoder</code></td><td><a href='https://ac.nowcoder.com/acm/contest/139206/D'>小月的石阶</a></td><td align='right'>09-01</td></tr>
+                <tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2260/problem/E'>2260E</a></td><td align='right'>09-09</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2260/problem/D'>2260D</a></td><td align='right'>09-09</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2260/problem/C'>2260C</a></td><td align='right'>09-09</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2260/problem/B'>2260B</a></td><td align='right'>09-09</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2260/problem/A'>2260A</a></td><td align='right'>09-09</td></tr>
                 </tbody>
             </table>
         </td>
@@ -58,6 +58,8 @@
 
 | 日期 | Codeforces | HDOJ | Local | Luogu | Nowcoder | Others | **Total** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [2026-09-09](./DailyLogs/2026-09-09.md) | 2 | - | - | - | - | - | **2** |
+| [2026-09-08](./DailyLogs/2026-09-08.md) | 3 | - | - | - | - | - | **3** |
 | [2026-09-04](./DailyLogs/2026-09-04.md) | - | - | - | - | - | 1 | **1** |
 | [2026-08-21](./DailyLogs/2026-08-21.md) | - | - | - | - | 3 | - | **3** |
 | [2026-08-20](./DailyLogs/2026-08-20.md) | - | 1 | - | - | 1 | - | **2** |
