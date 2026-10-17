@@ -1,5 +1,5 @@
 # 🏆 Algorithm Training Log
-> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-09-22 00:51:24*
+> 🎯 **Goal:** ACM Silver Medal | *Last updated: 2026-10-17 22:32:14*
 
 ## 📈 Heatmap
 ![Algorithm Training Heatmap](https://raw.githubusercontent.com/Qyf050217/Algorithm-Training/refs/heads/output/ac_heatmap.png)
@@ -8,14 +8,14 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center"><b><font size="5" color="#2874a6">342</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
-      <td align="center"><b><font size="5" color="#2874a6">342</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
-      <td align="center"><b><font size="5" color="#2874a6">16</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">359</font> problems</b><br><font color="gray" size="2">solved for all time</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">359</font> problems</b><br><font color="gray" size="2">solved for the last year</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">22</font> problems</b><br><font color="gray" size="2">solved for the last month</font></td>
     </tr>
     <tr>
       <td align="center"><b><font size="5" color="#2874a6">8</font> days</b><br><font color="gray" size="2">in a row max.</font></td>
       <td align="center"><b><font size="5" color="#2874a6">8</font> days</b><br><font color="gray" size="2">in a row for the last year</font></td>
-      <td align="center"><b><font size="5" color="#2874a6">3</font> days</b><br><font color="gray" size="2">in a row for the last month</font></td>
+      <td align="center"><b><font size="5" color="#2874a6">2</font> days</b><br><font color="gray" size="2">in a row for the last month</font></td>
     </tr>
   </table>
 </div>
@@ -33,7 +33,7 @@
             <table width="100%">
                 <thead><tr><th align="center">平台</th><th align="left">题目</th><th align="right">日期</th></tr></thead>
                 <tbody>
-                <tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2266/problem/E'>2266E</a></td><td align='right'>09-22</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2266/problem/D'>2266D</a></td><td align='right'>09-22</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2266/problem/B'>2266B</a></td><td align='right'>09-22</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2266/problem/C'>2266C</a></td><td align='right'>09-22</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2266/problem/A'>2266A</a></td><td align='right'>09-22</td></tr>
+                <tr><td align='center'><code>Nowcoder</code></td><td><a href='https://ac.nowcoder.com/acm/contest/141876/A'>赛琳的对线特训</a></td><td align='right'>10-17</td></tr><tr><td align='center'><code>Nowcoder</code></td><td><a href='https://ac.nowcoder.com/acm/contest/141876/B'>永恒之夜</a></td><td align='right'>10-17</td></tr><tr><td align='center'><code>Nowcoder</code></td><td><a href='https://ac.nowcoder.com/acm/contest/141876/C'>小雷姆吃大餐</a></td><td align='right'>10-17</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2275/problem/C'>2275C</a></td><td align='right'>10-17</td></tr><tr><td align='center'><code>Codeforces</code></td><td><a href='https://codeforces.com/contest/2275/problem/B'>2275B</a></td><td align='right'>10-17</td></tr>
                 </tbody>
             </table>
         </td>
@@ -58,6 +58,13 @@
 
 | 日期 | Codeforces | HDOJ | Local | Luogu | Nowcoder | Others | **Total** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [2026-10-16](./DailyLogs/2026-10-16.md) | - | - | - | - | 3 | - | **3** |
+| [2026-10-10](./DailyLogs/2026-10-10.md) | 3 | - | - | - | - | - | **3** |
+| [2026-10-07](./DailyLogs/2026-10-07.md) | 3 | - | - | - | - | - | **3** |
+| [2026-10-04](./DailyLogs/2026-10-04.md) | 2 | - | - | - | - | - | **2** |
+| [2026-10-03](./DailyLogs/2026-10-03.md) | 1 | - | - | - | - | - | **1** |
+| [2026-09-26](./DailyLogs/2026-09-26.md) | 1 | - | - | - | - | - | **1** |
+| [2026-09-25](./DailyLogs/2026-09-25.md) | 4 | - | - | - | - | - | **4** |
 | [2026-09-22](./DailyLogs/2026-09-22.md) | 3 | - | - | - | - | - | **3** |
 | [2026-09-21](./DailyLogs/2026-09-21.md) | 2 | - | - | - | - | - | **2** |
 | [2026-09-13](./DailyLogs/2026-09-13.md) | 4 | - | - | - | - | - | **4** |
