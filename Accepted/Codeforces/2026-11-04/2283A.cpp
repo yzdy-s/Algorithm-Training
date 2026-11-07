@@ -6,19 +6,15 @@ using namespace std;
 #define INF 0x3f3f3f3f
 #define PII pair<int, int>
 
-void solve() {
-    int n, k;cin >> n >> k;
-    vector<int> a(n + 1);
-    for (int i = 1; i <= n; i++) cin >> a[i];
-
-    int ans = -LNF;
-    ans = max(ans, a[1] + k);
-    ans = max(ans, a[n] + k);
-    for (int i = 1; i <= n - 1; i++) {
-        ans = max(ans, a[i] + a[i + 1]);
+void solve(){
+    int l, r;cin >> l >> r;
+    if ((l < 0 && r < 0) || (l > 0 && r > 0)) {
+        cout << r - l << endl;
+        return;
     }
-    cout << ans << endl;
+    cout << max(0ll, max(abs(l), abs(r)) - min(abs(l), abs(r)) - 1) << endl;
 }
+
 signed main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);cout.tie(nullptr);
